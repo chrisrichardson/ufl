@@ -27,7 +27,6 @@ Topic :: Software Development :: Libraries :: Python Modules
 
 setup(
     name="fenics-ufl",
-    version=version,
     description="Unified Form Language",
     author="Martin Sandve Alnæs, Anders Logg",
     author_email="fenics-dev@googlegroups.com",
