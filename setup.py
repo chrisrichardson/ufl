@@ -31,7 +31,7 @@ setup(
     author="Martin Sandve Alnæs, Anders Logg",
     author_email="fenics-dev@googlegroups.com",
     url="https://github.com/FEniCS/ufl",
-    use_scm_version={'parentdir_prefix_version': 'fenics-ufl-'},
+    use_scm_version={'parentdir_prefix_version': 'ufl-'},
     setup_requires=["setuptools_scm"],
     classifiers=[_f for _f in CLASSIFIERS.split('\n') if _f],
     packages=[
