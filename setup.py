@@ -44,4 +44,4 @@ setup(
         "ufl.formatting",
     ],
     package_dir={"ufl": "ufl"},
-    install_requires=["numpy", "setuptools_scm"])
+    install_requires=["numpy"])
